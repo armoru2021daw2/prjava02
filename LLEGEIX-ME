@@ -1,0 +1,8 @@
+1- git branch branca00 / git checkout branca00 / 
+5- git checkout main
+6- No, perquè la linea l'hem afegit estan a una branca diferent a la main
+7- git checkout branca00 / Si, perqué anteriorment hem fet un add i un commit.
+10b- git merge branca00
+12- git push
+12c- Perqué el push l'hem fet unicament a la branca main
+14b- git push --set-upstream origin branca01
